@@ -1,0 +1,16 @@
+PODS:
+  - IPaToast (0.1.0)
+
+DEPENDENCIES:
+  - IPaToast (from `../`)
+
+EXTERNAL SOURCES:
+  IPaToast:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  IPaToast: b25a92df8d81dacebd8a56a3139f4a704e673892
+
+PODFILE CHECKSUM: 939c7dffa194facdcfa44e434ccaa5baf1fe4df1
+
+COCOAPODS: 1.11.3
